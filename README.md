@@ -6,7 +6,7 @@ Our project main goals are:
   * Use buttons to control the Jukebox (play song, stop song, next song and previous song)
   * Use a sound sensor as an input to control led lights and make them light on the sound rhythm
   * Construct a nice looking Jukebox!
-Our team is from kids of elementary schools of Kozani, Greece:
+Our team "JukeBoxers" is from kids of elementary schools of Kozani, Greece:
 ~ Iordanidis Simeon from 7th Elementary School of Kozani,
 ~ Iordanidis Anestis from 7th Elementary School of Kozani,
 ~ Karagoula Maria from 1st Elementary School of Kozani,
@@ -23,7 +23,7 @@ and our teacher who will coach us is Tsalikidis Georgios.
     προηγούμενο τραγούδι)
   * Να χρησιμοποιήσουμε αισθητήρα ήχου σαν είσοδο για να ελέγχουμε φώτα τύπου led και να αναβοσβήνουν στο ρυθμό της μουσικής
   * Να κατασκευάσουμε ένα ωραίο Τζουκ Μποξ.
-Η ομάδα μας είναι από παιδιά δημοτικού της Κοζάνης, Ελλάδα:
+Η ομάδα μας "JukeBoxers" είναι από παιδιά δημοτικού της Κοζάνης, Ελλάδα:
 ~ Ιορδανίδης Σιμεών από το 7ο Δημοτικό Σχολείο Κοζάνης,
 ~ Ιορδανίδης Ανέστης από το 7ο Δημοτικό Σχολείο Κοζάνης,
 ~ Καραγκούλα Μαρία από το 1ο Δημοτικό Σχολείο Κοζάνης,
